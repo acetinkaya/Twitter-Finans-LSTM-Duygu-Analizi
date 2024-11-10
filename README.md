@@ -24,7 +24,7 @@ Article Information
 
 • Received: September 16, 2021
 
-• Accepted: November 29, 2020
+• Accepted: November 29, 2021
 
 • Full Article Access Link: [Twitter Üzerindeki Finansal Tweetlerin LSTM Sinir Ağı Algoritması ile Duygu Analizi](https://dergipark.org.tr/en/pub/veri/issue/67424/996003)
 
@@ -39,3 +39,15 @@ Abstract:
 This study presents the Long-Short-Term Memory (LSTM) model developed to predict the direction of movement of the EUR/USD through sentiment analysis. Two applications are carried out in the study, namely, determination of data sets and training/testing of the model. The first application in the study involves the stages of creating the dataset to be used. This dataset is created for the first time in this study. In creating the dataset, filtered English tweet messages with the hashtag #eurusd or the word eurosd on Twitter from 2005 to the present are first classified according to their content using sentiment analysis. For this purpose, each tweet is determined to be positive, negative or neutral (neutral) and the average of the sentiment scores of these tweets is calculated on a daily basis. Secondly, EUR/USD values are obtained from finance.yahoo.com on a daily basis to create the dataset. The last step in the creation of the dataset is to summarise the data based on the time series obtained in the first and second steps described in a dataset structure in csv format. In this way, a dataset based on time series data is obtained, which is used in the training and testing phase of the LSTM model and has a high prediction success rate. Once the dataset is determined, the training and testing phase of the LSTM prediction model is started. The second application in the study involves the training/testing phases of the model. In this phase, various experiments are conducted in which the training steps and the structure of the LSTM layers of the neural network are changed to determine the LSTM prediction model with the highest success rate. As a result of these experiments, the best LSTM model is determined with a success rate of 94.48%. The results of the study show that the developed LSTM prediction model can be used as a helpful tool for estimating the direction of movement of EUR/USD in money markets with high accuracy. The results of the research are valuable in terms of application in different sectors in the future, as well as containing important information in terms of Artificial Intelligence algorithms and sentiment analysis.
 
 Keywords: Deep learning, LSTM, Financial Analysis, EUR/USD Forecast, Sentiment Analysis
+
+How to Cite
+
+• IEEE: H. Yusufoğlu, H. Aydin, and A. Çeti̇nkaya, “Twitter Üzerindeki Finansal Tweetlerin LSTM Sinir Ağı Algoritması ile Duygu Analizi”, Veri Bilimi, 4(3), 28-43., Nov. 2021.
+
+• APA: Yusufoğlu, H., Aydın, H., & Çetinkaya, A. (2021). Twitter Üzerindeki Finansal Tweetlerin LSTM Sinir Ağı Algoritması ile Duygu Analizi. Veri Bilimi, 4(3), 28-43.	
+
+• MLA: Yusufoğlu, Hakan, Hakan Aydın, and Ali Çetinkaya. "Twitter Üzerindeki Finansal Tweetlerin LSTM Sinir Ağı Algoritması ile Duygu Analizi." Veri Bilimi 4.3 (2021): 28-43.
+
+License:
+
+This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
