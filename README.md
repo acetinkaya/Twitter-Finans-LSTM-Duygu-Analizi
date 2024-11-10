@@ -51,3 +51,5 @@ How to Cite
 License:
 
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
+
+![alternatif metin](https://github.com/acetinkaya/Twitter-Finans-LSTM-Duygu-Analizi/blob/main/LSTM_Twitter.png)
